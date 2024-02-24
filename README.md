@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Personal Website
+
+![Logo](./public/logo-arlab.jpg)
+
+Welcome to my personal website project! This website is built using [Next.js](https://nextjs.org/) and serves as a platform to showcase information about me, my open-source projects, writings, ebooks, and contact information.
+
+## Design Mockup
+
+For the design mockup of this website, you can view it on Figma:
+[View Figma Mockup](https://www.figma.com/file/cKOboscKKBYe3G0LIqWCZ9/Bearmentor-Project?type=design&node-id=0-1&mode=design&t=xX9Cy45IbV91dzyw-0)
+
+## Features
+
+- **Home:** Provides an overview about me.
+- **Projects:** Lists my open-source projects, along with the technologies used and demo links.
+- **Writing:** Features my writings.
+- **Ebooks:** Lists my ebooks.
+- **Contact:** Provides links to my social media profiles for contacting me.
+
+## Technologies Used
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript
 
 ## Getting Started
 
-First, run the development server:
+To get a copy of this project up and running on your local machine for development and testing purposes, follow these steps:
 
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/azizramdan/bearmentor-personal-website.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Navigate to the project directory:
+```bash
+cd bearmentor-personal-website
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Install dependencies:
+```bash
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+4. Start the development server:
+```bash
+npm run dev
+```
 
-## Learn More
+5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the website.
 
-To learn more about Next.js, take a look at the following resources:
+## Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This website can be deployed using platforms like Netlify, Vercel, or GitHub Pages. Follow their respective documentation to deploy the website.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the [MIT License](LICENSE).
