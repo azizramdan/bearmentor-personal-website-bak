@@ -1,6 +1,8 @@
 # My Personal Website
 
-![Logo](./public/logo-arlab.jpg)
+<p align="center">
+  <img width="250" height="250" src="./public/logo-arlab.jpg">
+</p>
 
 Welcome to my personal website project! This website is built using [Next.js](https://nextjs.org/) and serves as a platform to showcase information about me, my open-source projects, writings, ebooks, and contact information.
 
